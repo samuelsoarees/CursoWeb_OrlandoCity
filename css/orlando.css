@@ -2,12 +2,19 @@ header {
 	height: 150px;
 	width: 100%;
 	background-color: #5E299A; 
+
 }
 
 header .container {
-	
+	position: relative;
 }
+
 header .header-black {
 	background-color: #000;
 	height: 40px;
+}
+
+header #logotipo {
+	position: absolute;
+	    top: -20px;
 }
