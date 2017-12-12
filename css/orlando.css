@@ -8,7 +8,12 @@ header .container {
 }
 header .header-black {
 	background-color: #000;
+	width: 100%;
 	height: 40px;
+}
+
+header .header-black ul {
+	margin-left: 8%;
 }
 header .header-black li {
 	background-image: url("../img/clubs.png");
