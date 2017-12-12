@@ -100,5 +100,15 @@ header .header-black li a {
 }
 header #logotipo {
 	position: absolute;
-	top: -30px;
+	top: -20px;
+}
+
+#menu{
+	margin-top: 40px;
+	position: absolute;
+	right: 0;
+}
+
+#menu li {
+	display: inline;
 }
